@@ -9,9 +9,10 @@ __pycache__/
 .idea/
 .vscode/
 .vs/
-
+./model/
 ./dataset
 ./Dataset
+model/
 
 # Distribution / packaging
 .Python
