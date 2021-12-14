@@ -10,7 +10,8 @@ __pycache__/
 .vscode/
 .vs/
 
-
+./dataset
+./Dataset
 
 # Distribution / packaging
 .Python
